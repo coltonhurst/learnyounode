@@ -1,4 +1,6 @@
 # learnyounode
+REPO STATUS: retired until time allows
+
 Following the NodeSchool learnyounode tutorial.
 
 - step 1: [hello.js](hello.js)
